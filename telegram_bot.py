@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 from telebot import types
 
 # Replace 'YOUR_BOT_TOKEN' with your actual Telegram bot token
-API_TOKEN = '8040452579:AAG_U-s1h5MrDQ2ZtXBvRc7A2vQbLqYd3Nw'
+API_TOKEN = '8040452579:AAFOVG4rJ6ov9Yl0Y7zz2JI6nePI2r2fskE'
 bot = telebot.TeleBot(API_TOKEN)
 
 # Channel username (replace with your actual channel username)
